@@ -4,4 +4,5 @@
 ##### pip install flask - instalar flask
 ##### pip freeze - Mostrar paquetes instalados
 ##### Markdown
-##### pip install -r paquetes.txt  - en caso de recrear el proyecto
+##### pip install -r paquetes.txt  - en caso de recrear el proyecto 
+##### git pull origin main  - para estirar los cambios 
